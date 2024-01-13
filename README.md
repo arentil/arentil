@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arentil
 - 👀 I’m interested in C++, Game Engine, Microservices, Design Patterns
-- 🌱 I’m currently learning OpenGL, Design Patterns
+- 🌱 I’m currently learning a little bit of devopsing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me marcin.zolubowski@gmail.com
 
